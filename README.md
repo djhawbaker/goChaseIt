@@ -9,8 +9,7 @@ To run, setup two terminals
 3. source devel/setup.bash
 
 Run in separate terminals: 
-
-   roslaunch my_robot world.launch
-   roslaunch ball_chaser ball_chaser.launch
+1. roslaunch my_robot world.launch
+2. roslaunch ball_chaser ball_chaser.launch  
 
 The bot will follow the white ball around. You have to manually move the white ball to places that the bot can see it.
